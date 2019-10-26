@@ -3,8 +3,8 @@
 ## Getting Started
 
 ```
-git clone https://github.com/muhajirdev/nextjs-tailwind-template
-cd nextjs-tailwind-template
+git clone https://github.com/muhajirdev/tailwind-theme-switcher-next-react/
+cd tailwind-theme-switcher-next-react
 
 npm install
 npm run dev
